@@ -18,7 +18,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 ES6 ToDo List <a name="about-project"></a>
+# 📖 ES6 To-Do List <a name="about-project"></a>
 
 **ES6 To-Do List** is a modern and efficient task management application that leverages the power of ES6 and contemporary web technologies. With its intuitive interface, prioritization options, task categorization, and collaboration features, it offers a seamless experience for organizing and accomplishing daily tasks.
 
